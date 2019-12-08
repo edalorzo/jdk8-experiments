@@ -13,6 +13,34 @@ and started playing with their new features. I was psyqued about functional prog
 back then and I just couldn't wait to get may hands on their latest build. In those days
 there weren't such frequent builds as they do today.
 
+Interesting Stackoverflow Answers
+---------------------------------
+
+Since I was following the project so close back then, I managed to answer a few very interesting question in Stackoverlow.
+
+* [Why There's Interface Pollution in Java 8](https://stackoverflow.com/a/22919112/697630)
+* [Should I use Java8/Guava Optional for every method that may return null?](https://stackoverflow.com/a/18699418/697630)
+* [Why are Java 8 lambdas invoked using invokedynamic?](https://stackoverflow.com/a/30002771/697630)
+* [Remove Elements from a Collection while Iterating](https://stackoverflow.com/a/10432084/697630)
+* [Lambdas, multiple forEach with casting](https://stackoverflow.com/a/25439912/697630)
+* [How to specify function types for void (not Void) methods in Java8?](https://stackoverflow.com/a/14338333/697630)
+* [Adding two Java 8 streams, or an extra element to a stream](https://stackoverflow.com/a/22741520/697630)
+* [How do I use the new computeIfAbsent function?](https://stackoverflow.com/a/19283210/697630)
+* [CompletableFuture in loop: How to collect all responses and handle errors](https://stackoverflow.com/a/51141370/697630)
+* [Is polymorphism possible without inheritance?](https://stackoverflow.com/a/11732581/697630)
+* [Why is “final” not allowed in Java 8 interface methods?](https://stackoverflow.com/a/23458190/697630)
+* [Java 8: Mandatory checked exceptions handling in lambda expressions. Why mandatory, not optional?](https://stackoverflow.com/a/22689869/697630)
+* [Why does Iterable<T> not provide stream() and parallelStream() methods?](https://stackoverflow.com/a/23114500/697630)
+* [Java Lambdas and Closures](https://stackoverflow.com/a/11404360/697630)
+* [Why doesn't Java 8's ToIntFunction<T> extend Function<T, Integer>](https://stackoverflow.com/a/22691618/697630)
+* [Parallelism in Java 8](https://stackoverflow.com/a/12240520/697630)
+* [Java 8 default method readability](https://stackoverflow.com/a/28138026/697630)
+* [Java 8 dancing around functions as first class citizens?](https://stackoverflow.com/a/22667201/697630)
+* [Why does Guava's Optional use abstract classes when Java 8's uses nulls?](https://stackoverflow.com/a/22997374/697630)
+* [Why an Anonymous class can't implement multiple interfaces directly?](https://stackoverflow.com/a/15367380/697630)
+
+And many more...
+
 Reference Material
 -----------------
 
