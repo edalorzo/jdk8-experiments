@@ -33,10 +33,10 @@ During this time I put up a list of interesting links and reference material whi
    * [JSR 335: Lambda Expressions for Java Programming Language](https://jcp.org/aboutJava/communityprocess/edr/jsr335/index3.html)
    * [JLS: Lambda Expressions](http://docs.oracle.com/javase/specs/jls/se8/html/jls-15.html#jls-15.27)
    * **Historic References**
-      * [Lambda Straw-Man Proposal](http://cr.openjdk.java.net/~mr/lambda/straw-man/)
-      * [Closures for Java](https://blogs.oracle.com/mr/entry/closures)
-      * [Closures Q&A](http://mreinhold.org/blog/closures-qa)
-      * [A Discussion With Neal Gafter on the Future of Java](http://www.infoq.com/articles/neal-gafter-on-java)
+     * [Lambda Straw-Man Proposal](http://cr.openjdk.java.net/~mr/lambda/straw-man/)
+     * [Closures for Java](https://blogs.oracle.com/mr/entry/closures)
+     * [Closures Q&A](http://mreinhold.org/blog/closures-qa)
+     * [A Discussion With Neal Gafter on the Future of Java](http://www.infoq.com/articles/neal-gafter-on-java)
  * **Date/Time API**
    * [JSR 310: Date and Time API](https://jcp.org/en/jsr/detail?id=310)
    * [ThreeTen Home Page](http://www.threeten.org/index.html)
@@ -46,18 +46,18 @@ During this time I put up a list of interesting links and reference material whi
    * [Stephen Colebourne's Blog Posts on JSR-310](http://blog.joda.org/search/label/jsr310)
    * [Java Tutorial on Date/Time API](http://docs.oracle.com/javase/tutorial/datetime/index.html)
  * **Nashorn**
-  * [Nashorn User's Guide](http://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)
-  * [Oracle Nashorn Blog](https://blogs.oracle.com/nashorn/)
-  * [JVMLS 2013: Fitting Nashorn on the JVM](http://medianetwork.oracle.com/video/player/2623645004001)
-  * [JVMLS 2013: Nashorn War Stories](http://medianetwork.oracle.com/video/player/2630340183001)
-  * [Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
-  * [Running Node.js Applications on the JVM with Nashorn](http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html)
-  * [Project Avatar](https://avatar.java.net/index.html)
+   * [Nashorn User's Guide](http://docs.oracle.com/javase/8/docs/technotes/guides/scripting/nashorn/)
+   * [Oracle Nashorn Blog](https://blogs.oracle.com/nashorn/)
+   * [JVMLS 2013: Fitting Nashorn on the JVM](http://medianetwork.oracle.com/video/player/2623645004001)
+   * [JVMLS 2013: Nashorn War Stories](http://medianetwork.oracle.com/video/player/2630340183001)
+   * [Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
+   * [Running Node.js Applications on the JVM with Nashorn](http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html)
+   * [Project Avatar](https://avatar.java.net/index.html)
  * **Others**
-  * [Curated List of Blog Posts on Java 8](http://www.baeldung.com/java8)
+   * [Curated List of Blog Posts on Java 8](http://www.baeldung.com/java8)
  * **Books**
-  * [Java 8 in Action](http://www.manning.com/urma/)
-  * [Java 8 Lambdas](http://shop.oreilly.com/product/0636920030713.do)
-  * [Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions](https://pragprog.com/book/vsjava8/functional-programming-in-java)
+   * [Java 8 in Action](http://www.manning.com/urma/)
+   * [Java 8 Lambdas](http://shop.oreilly.com/product/0636920030713.do)
+   * [Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions](https://pragprog.com/book/vsjava8/functional-programming-in-java)
 
 
